@@ -2,6 +2,8 @@ body{margin:0px;padding:0px;background-color:#F5DEB3;color:#4A3B2C;}
 header{background-color:#8B5A2B;height:80px;padding:5px;background-image:url('https://secure-mcpc.github.io/potato/assets/image/main.png');background-position:center;background-repeat:no-repeat;background-size:70px;}
 footer{background-color:#8B5A2B;height:200px;padding:10px;}
 a{color:#4A3B2C;text-decoration:none;transition:color 0.3s ease;}
-a:hover{color:#8B5A2B;}
+a:hover{color:#6B8E23;}
 a:visited{color:#4A3B2C;}
-a:visited:hover{color:#8B5A2B;}
+a:visited:hover{color:#6B8E23;}
+.card{background-color:var(--cream-light);padding:1.5rem;transition:transform 0.2s,box-shadow 0.2s;}
+.card:hover{transform:translateY(-4px);}
